@@ -4,3 +4,14 @@ with each day demand for opening new restaurants is increasing day by day inspit
 the people here are dependent mainly on the restaurant food as they don’t have time to cook for themselves.
 With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location.
 
+# Understanding Requirements
+
+<ul>
+<li>Approx Price of food </li>
+ <li>Location of the restaurant  </li>
+ <li>Theme based restaurant or not  </li>
+ <li>Which locality of that city serves that cuisines with maximum number of restaurants  </li>
+ <li>The needs of people who are striving to get the best cuisine of the neighborhood  </li>
+ <li>Is a particular neighborhood famous for its own kind of food.  </li>
+
+</ul>
