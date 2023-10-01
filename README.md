@@ -29,3 +29,20 @@ With such an overwhelming demand of restaurants it has therefore become importan
 <li>location :-contains the neighborhood in which the restaurant is located </li>
 <li> rest_type :- restaurant type</li>
 </ul>
+
+
+# Insights and findings:
+
+<ul> 
+<li>BTM ,HSR and Koramangala 5th Block location has more restruants so if someone wants to open new restruants they should avoid those location which have more no. of restruants instead they should try those which have less restaurants. </li>
+<li>we can see the count of online orders is much high as compared to offline so if you want to open a restruant then must include online payments. </li>
+<li>we can see that the restruants which have not booking table facility are very high as compared to those which have book table facility.</li>
+<li> the max rating for online orders is much high as compared to offline orders and avg for both are similar.</li>
+<li>her we observe that the average rating for restruants which have booking table facility is much high so we you want to opwen a restruant then should make this facility on prior.</li>
+<li>BTM,HSR and Koramangala 5th Block location has highest online orders so if you want to open a restaurents then fo for location which have less online orders.</li>
+<li>BTM, HSR and JP nagar has most table booking facility so we you want to open restaurents then go for locations which have less booking table facility. </li>
+<li>People give max rating to buffet, drinks& nighlife and pub and bars people want these type of restaurents more so you should go for these restaurents where their percentage is very less. </li>
+<li>Shivaji nagar,Wilson Garden, Vasanth Nagar Frazer Town has very less no of drinks& nighlife and pubs and bars restaurents so people should open thse kind of restaurents these. </li>
+<li>These are some insights which I have observed during this EDA </li>
+
+</ul>
